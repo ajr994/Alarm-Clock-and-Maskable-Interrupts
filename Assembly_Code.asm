@@ -50,5 +50,5 @@ here    bra 	here
         ldx 	#ten
 notyet  stx 	rticntr
 done    rti
-        end
+         end
 
