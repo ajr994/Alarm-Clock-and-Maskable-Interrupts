@@ -1,4 +1,4 @@
-# Alarm-Clock-and-Maskable-Interrupts
+# Maskable-Interrupts-Alarm-Clock
 Assembly language program for an alarm clock using interrupts
 
    This program was written for and tested on the 68HC12 microprocessor where the concepts of Real Time Interrupt mechanisms and how to implement them on the 68HC12 microprocessor were displayed.  This project also helps show an understanding of the difference between maskable and non-maskable interrupts, focusing on how they affect the microprocessor. Using real time interrupts and the internal clock of the microprocessor it is possible to implement more efficient programming techniques. 
