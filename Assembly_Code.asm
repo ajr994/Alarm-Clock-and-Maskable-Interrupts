@@ -1,16 +1,16 @@
 #### Initialize
 
-crgflg    equ $0037
-crgint 	equ $0038
-rtictl 	equ $003b
-rtiadd 	equ $0ff0
-isradd 	equ $0B00
-outstrg   equ $ff5e
-stktop 	equ $0E00
-ten       equ $1220
-rtie 	equ $80 	
-rtif 	equ $80
-rtr 	equ $71
+crgflg       equ $0037
+crgint 	   equ $0038
+rtictl 	   equ $003b
+rtiadd 	   equ $0ff0
+isradd 	   equ $0B00
+outstrg      equ $ff5e
+stktop 	   equ $0E00
+ten          equ $1220
+rtie 	   equ $80 	
+rtif 	   equ $80
+rtr 	   equ $71
 
 #### Data Section
 
